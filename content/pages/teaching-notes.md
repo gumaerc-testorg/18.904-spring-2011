@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Teaching Notes
 uid: 7b398759-e703-f530-0208-8fa3701082da
 ---
@@ -14,7 +16,7 @@ The class met for one hour three times a week. Each time, two students spoke for
 Final paper
 -----------
 
-The students were required to write a final paper of about 10 pages in length, on a special topic. I came up with a [list of possible topics]({{< baseurl >}}/pages/final-paper) and put it on the class webpage to give them ideas. I didn't require them to use one of these topics, but I think everyone did. I made them choose a topic by the 15th class session, hand in a draft by the 27th class session and then had the final paper due by the 32nd class session. There were a total of 39 class sessions.
+The students were required to write a final paper of about 10 pages in length, on a special topic. I came up with a [list of possible topics]({{< baseurl >}}/pages/final-paper) and put it on the class webpage to give them ideas. I didn't require them to use one of these topics, but I think everyone did. I made them choose a topic by the 15{{< sup "th" >}} class session, hand in a draft by the 27{{< sup "th" >}} class session and then had the final paper due by the 32{{< sup "nd" >}} class session. There were a total of 39 class sessions.
 
 Homework
 --------

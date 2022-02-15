@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 18ac083f-71d7-7895-10a9-fb5ff0ff557f
 title: Customizing a Prescribed Course Structure
 uid: 020c887f-2918-e7ab-022e-5fded9505d05

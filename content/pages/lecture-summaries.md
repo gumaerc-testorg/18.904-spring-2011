@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: e803d8bc-7706-e2b1-ffda-554c4900cb98
 ---
@@ -98,7 +101,7 @@ _References_: Hatcher §1.1, Massey §II.3.
 The fundamental group of the circle
 {{< tdclose >}}
 {{< tdopen >}}
-Define a homomorphism Z→ π1(S1) and show that it is an isomorphism.
+Define a homomorphism Z→ π{{< sub "1" >}}(S{{< sup "1" >}}) and show that it is an isomorphism.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +115,7 @@ Applications of previous lecture
 {{< tdopen >}}
 
 
-Using the isomorphism π1(S1) = Z from the previous lecture, prove the following theorems: the fundamental theorem of algebra (every non-constant polynomial with complex coefficients has a complex root), Brouwer's fixed point theorem for the 2-disc (every continuous map from the 2-disc to itself has a fixed point) and the Borsuk-Ulam theorem for the 2-sphere (every continuous map from the 2-sphere to **R**2 admits two antipodal points at which it is equal).
+Using the isomorphism π{{< sub "1" >}}(S{{< sup "1" >}}) = Z from the previous lecture, prove the following theorems: the fundamental theorem of algebra (every non-constant polynomial with complex coefficients has a complex root), Brouwer's fixed point theorem for the 2-disc (every continuous map from the 2-disc to itself has a fixed point) and the Borsuk-Ulam theorem for the 2-sphere (every continuous map from the 2-sphere to **R**{{< sup "2" >}} admits two antipodal points at which it is equal).
 
 _References_: Hatcher §1.1, Massey §II.6.
 
@@ -128,7 +131,7 @@ _References_: Hatcher §1.1, Massey §II.6.
 Contractible and simply connected spaces
 {{< tdclose >}}
 {{< tdopen >}}
-Define what it means for a space to be **contractible** and **simply connected**. Prove that a contractible space is simply connected. Show that **R**n is contractible. Show that a sphere of dimension at least 2 is simply connected. (Spheres are _not_ contractible though!)
+Define what it means for a space to be **contractible** and **simply connected**. Prove that a contractible space is simply connected. Show that **R**{{< sup "n" >}} is contractible. Show that a sphere of dimension at least 2 is simply connected. (Spheres are _not_ contractible though!)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +161,7 @@ _References_: Hatcher §1.1, Massey §II.7.
 Functoriality of the fundamental group
 {{< tdclose >}}
 {{< tdopen >}}
-Show that a continuous map f : X → Y of topological spaces induces a homomorphism of groups f\* : π1(X) → π1(Y). Define what it means for two maps f, g : X → Y to be **homotopic** (generalizing the definition for paths). Show that if f and g are homotopic then f\*=g\*.
+Show that a continuous map f : X → Y of topological spaces induces a homomorphism of groups f\* : π{{< sub "1" >}}(X) → π{{< sub "1" >}}(Y). Define what it means for two maps f, g : X → Y to be **homotopic** (generalizing the definition for paths). Show that if f and g are homotopic then f\*=g\*.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,10 +188,10 @@ _References_: Hatcher §1.1, Massey §II.8.
 7
 {{< tdclose >}}
 {{< tdopen >}}
-The fundamental group of S1 ∨ S1
+The fundamental group of S{{< sup "1" >}} ∨ S{{< sup "1" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-Define the **free group** on n letters Fn. Define the **wedge sum** X ∨ Y of two topological spaces. Construct a map F2 → S1 ∨ S1 and show that it is an isomorphism. State a similar result (without proof) for an n-fold wedge sum of circles.
+Define the **free group** on n letters F{{< sub "n" >}}. Define the **wedge sum** X ∨ Y of two topological spaces. Construct a map F{{< sub "2" >}} → S{{< sup "1" >}} ∨ S{{< sup "1" >}} and show that it is an isomorphism. State a similar result (without proof) for an n-fold wedge sum of circles.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -383,12 +386,12 @@ _References_: Hatcher pp. 68–70.
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Covering spaces of S1 ∨ S1
+Covering spaces of S{{< sup "1" >}} ∨ S{{< sup "1" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Describe covers of the space S1 ∨ S1 in terms of 2 oriented graphs. In particular, explicitly describe the universal cover. Also, give some examples of Galois and non-Galois covers.
+Describe covers of the space S{{< sup "1" >}} ∨ S{{< sup "1" >}} in terms of 2 oriented graphs. In particular, explicitly describe the universal cover. Also, give some examples of Galois and non-Galois covers.
 
 _References_: Hatcher p. 57.
 
@@ -454,7 +457,7 @@ Definition of homology and first calculations
 {{< tdopen >}}
 
 
-Define the group of **cycles** and **boundaries**. Define **singular homology**. Compute H0 and the homology of a point.
+Define the group of **cycles** and **boundaries**. Define **singular homology**. Compute H{{< sub "0" >}} and the homology of a point.
 
 _References_: Hatcher p. 108, Prop. 2.7 and Prop. 2.8.
 
@@ -844,7 +847,7 @@ The cup product, part 2
 {{< tdopen >}}
 
 
-Compute the cohomology ring of the wedge sum S2 ∨ S4 and of complex projective space **CP**2. Observe that the underlying groups are isomorphic, but since the ring structure is different the two spaces are not homotopy equivalent. This is something that cannot be seen purely in terms of homology, and relies on the additional structure in cohomology.
+Compute the cohomology ring of the wedge sum S{{< sup "2" >}} ∨ S{{< sup "4" >}} and of complex projective space **CP**{{< sup "2" >}}. Observe that the underlying groups are isomorphic, but since the ring structure is different the two spaces are not homotopy equivalent. This is something that cannot be seen purely in terms of homology, and relies on the additional structure in cohomology.
 
 _References_: Hatcher Example 3.13.
 
@@ -988,7 +991,7 @@ Cohomology with compact support
 {{< tdopen >}}
 
 
-Define **cohomology with compact support**, and give the characterization of it as a direct limit. Compute the cohomology of **R**n with compact supports.
+Define **cohomology with compact support**, and give the characterization of it as a direct limit. Compute the cohomology of **R**{{< sup "n" >}} with compact supports.
 
 _References_: Hatcher pp. 242–5.
 

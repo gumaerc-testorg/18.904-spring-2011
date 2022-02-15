@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 18ac083f-71d7-7895-10a9-fb5ff0ff557f
 title: Conveying Mathematical Content Through Student Lectures
 uid: 429d1f12-108e-0eb4-8f49-e9cfaf92c403
