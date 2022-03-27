@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Paper
 parent_type: CourseSection
+parent_uid: 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116
 resourcetype: Document
 title: LaTeX guidelines
 uid: f375162f-a875-71fd-6b8a-9a281944cf8f

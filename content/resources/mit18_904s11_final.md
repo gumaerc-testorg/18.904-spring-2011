@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Paper
 parent_type: CourseSection
+parent_uid: 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116
 resourcetype: Document
 title: Comments on Final Paper Drafts
 uid: 343d96d1-35a7-2300-f69c-9338178d46bd

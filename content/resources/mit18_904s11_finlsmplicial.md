@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Paper
 parent_type: CourseSection
+parent_uid: 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116
 resourcetype: Document
 title: An Introduction to Simplicial Sets
 uid: 630fecdd-09a7-90c3-19d5-75f60287dfbc

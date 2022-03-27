@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Paper
 parent_type: CourseSection
+parent_uid: 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116
 resourcetype: Document
 title: Introduction to Orbifolds
 uid: ddb67681-e7f7-5f31-931a-73d2fd1ecb41
