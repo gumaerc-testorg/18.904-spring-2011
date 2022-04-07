@@ -21,7 +21,7 @@ Many students entered this class without any experience presenting mathematics i
 Ample Practice in a Realistic Setting
 -------------------------------------
 
-I think the key to learning how to give a good math talk is practice. It's all about just doing it. Over the course of the semester, each student gave six 25-minute [lectures]({{< baseurl >}}/pages/lecture-summaries).
+I think the key to learning how to give a good math talk is practice. It's all about just doing it. Over the course of the semester, each student gave six 25-minute {{< resource_link e803d8bc-7706-e2b1-ffda-554c4900cb98 "lectures" >}}.
 
 To maintain a realistic classroom atmosphere, it was important that the whole class attend each class session. There were roughly 10 students in the class, so if 3 people didn't show up, then the lecturer would feel like he/she was talking to a small group instead of a class.
 

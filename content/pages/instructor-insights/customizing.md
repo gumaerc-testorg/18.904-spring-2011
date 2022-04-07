@@ -16,7 +16,7 @@ Since the Seminar in Topology is an [undergraduate math seminar](http://mathcomm
 
 As the course instructor, I built upon these requirements and what prior Seminar in Topology instructors had done. I was given a basic set of guidelines. I looked at past course websites for Seminar in Topology that were still on the web. I also discussed ideas with Susan Ruff, the MIT math department's writing instructor, who has been involved in many of the undergraduate math seminars in recent years.
 
-For information about the course's structure, see the course's [Syllabus]({{< baseurl >}}/pages/syllabus). Some of the ways in which I chose to structure the class are described below.
+For information about the course's structure, see the course's {{< resource_link 04eed4c2-e03e-e499-2f74-03e77273d890 "Syllabus" >}}. Some of the ways in which I chose to structure the class are described below.
 
 Picking the Textbook and Topics to Cover
 ----------------------------------------

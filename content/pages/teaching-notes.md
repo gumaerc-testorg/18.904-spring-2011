@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Teaching Notes
 uid: 7b398759-e703-f530-0208-8fa3701082da
 ---
@@ -11,12 +12,12 @@ In spring 2011, I ran the 18.904 seminar (Seminar in Topology). Below are some c
 Organization
 ------------
 
-The class met for one hour three times a week. Each time, two students spoke for about 25 minutes each. This worked very well. I think it's preferable to having one student speak for the entire time for a few reasons: for instance, it gives the students less to prepare for their lecture and if someone is not doing so well at least they're not talking for very long! I planned out the topics for the lectures ahead of time and gave the students a fairly detailed overview of what they should cover in their lectures. See the [Syllabus]({{< baseurl >}}/pages/syllabus) and [Student Lecture Schedule]({{< baseurl >}}/pages/lecture-summaries).
+The class met for one hour three times a week. Each time, two students spoke for about 25 minutes each. This worked very well. I think it's preferable to having one student speak for the entire time for a few reasons: for instance, it gives the students less to prepare for their lecture and if someone is not doing so well at least they're not talking for very long! I planned out the topics for the lectures ahead of time and gave the students a fairly detailed overview of what they should cover in their lectures. See the {{< resource_link 04eed4c2-e03e-e499-2f74-03e77273d890 "Syllabus" >}} and {{< resource_link e803d8bc-7706-e2b1-ffda-554c4900cb98 "Student Lecture Schedule" >}}.
 
 Final paper
 -----------
 
-The students were required to write a final paper of about 10 pages in length, on a special topic. I came up with a [list of possible topics]({{< baseurl >}}/pages/final-paper) and put it on the class webpage to give them ideas. I didn't require them to use one of these topics, but I think everyone did. I made them choose a topic by the 15{{< sup "th" >}} class session, hand in a draft by the 27{{< sup "th" >}} class session and then had the final paper due by the 32{{< sup "nd" >}} class session. There were a total of 39 class sessions.
+The students were required to write a final paper of about 10 pages in length, on a special topic. I came up with a {{< resource_link 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116 "list of possible topics" >}} and put it on the class webpage to give them ideas. I didn't require them to use one of these topics, but I think everyone did. I made them choose a topic by the 15{{< sup "th" >}} class session, hand in a draft by the 27{{< sup "th" >}} class session and then had the final paper due by the 32{{< sup "nd" >}} class session. There were a total of 39 class sessions.
 
 Homework
 --------

@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Instructor Insights
 uid: 18ac083f-71d7-7895-10a9-fb5ff0ff557f
 ---
@@ -35,18 +36,18 @@ Instructor Insights
 
 In the following pages, Dr. Andrew Snowden discusses specific aspects of his experience leading this course.
 
-*   [Helping students learn to present mathematics]({{< baseurl >}}/pages/instructor-insights/present-mathematics)
-*   [Helping students learn to write mathematics papers]({{< baseurl >}}/pages/instructor-insights/write-mathematics-papers)
-*   [Conveying mathematical content through student lectures]({{< baseurl >}}/pages/instructor-insights/conveying-mathematical-content)
-*   [Customizing a prescribed course structure]({{< baseurl >}}/pages/instructor-insights/customizing)
-*   [Adapting the course in response to student feedback]({{< baseurl >}}/pages/instructor-insights/student-feedback)
+*   {{< resource_link f99ab93d-ec5b-e8c8-f3d4-2526fd00bd92 "Helping students learn to present mathematics" >}}
+*   {{< resource_link 3c03b5f9-3ec8-803f-da53-1066aded0138 "Helping students learn to write mathematics papers" >}}
+*   {{< resource_link 429d1f12-108e-0eb4-8f49-e9cfaf92c403 "Conveying mathematical content through student lectures" >}}
+*   {{< resource_link 020c887f-2918-e7ab-022e-5fded9505d05 "Customizing a prescribed course structure" >}}
+*   {{< resource_link 505395b2-96e0-3d8f-bf32-956b77d837e7 "Adapting the course in response to student feedback" >}}
 
 Curriculum Information
 ----------------------
 
 ### Prerequisites
 
-*   [18.901 _Introduction to Topology_](/courses/18-901-introduction-to-topology-fall-2004/)
+*   [18.901 _Introduction to Topology_](/courses/18-901-introduction-to-topology-fall-2004)
 
 ### Requirements Satisfied
 

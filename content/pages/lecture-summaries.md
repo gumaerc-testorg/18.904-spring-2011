@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Summaries
 uid: e803d8bc-7706-e2b1-ffda-554c4900cb98
 ---
