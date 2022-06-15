@@ -1,24 +1,26 @@
 ---
 content_type: page
+description: This section includes guidelines for writing the final paper for the
+  course, LaTeX guidelines, a list of possible paper topics, and sample final papers
+  written by students in the class.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Final Paper
 uid: 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116
 ---
 
-[Guidelines]({{< baseurl >}}/pages/final-paper#1)
+{{% resource_link 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116 "Guidelines" "#1" %}}
 
-[Topic Selection]({{< baseurl >}}/pages/final-paper#2)
+{{% resource_link 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116 "Topic Selection" "#2" %}}
 
-[Sample Student Final Papers]({{< baseurl >}}/pages/final-paper#3)
+{{% resource_link 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116 "Sample Student Final Papers" "#3" %}}
 
 {{< anchor "1" >}}{{< /anchor >}}Guidelines
 -------------------------------------------
 
 The final paper is an approximately 10 page exposition on a topic in algebraic topology not covered in our seminar. The paper must be written in [LaTeX](http://www.latex-project.org/) (or some other flavor of [TeX](http://en.wikipedia.org/wiki/TeX)).
 
-Here are some {{< resource_link f375162f-a875-71fd-6b8a-9a281944cf8f "LaTeX guidelines (PDF)" >}}—and the {{< resource_link e8009715-bf17-ba32-251f-acf8ce619c9c "LaTeX guidelines .tex source" >}}—that gives some examples of how to do things like matrices and commutative diagrams, and also discusses some things that you should and should not do in latex (repeated in abridged form below).
+Here are some {{% resource_link f375162f-a875-71fd-6b8a-9a281944cf8f "LaTeX guidelines (PDF)" %}}—and the {{% resource_link e8009715-bf17-ba32-251f-acf8ce619c9c "LaTeX guidelines .tex source" %}}—that gives some examples of how to do things like matrices and commutative diagrams, and also discusses some things that you should and should not do in latex (repeated in abridged form below).
 
 *   Do not begin sentences (or phrases) with math. Do not put math next to math.
 *   Multi-letter operators and functions, like sin, should not be italicized.
@@ -26,7 +28,7 @@ Here are some {{< resource_link f375162f-a875-71fd-6b8a-9a281944cf8f "LaTeX guid
 *   When multiple formulas are put into a single displaymath (LaTeX math mode), put space between them.
 *   The default margins are much too large; adjust them.
 
-I've put together a list of mistakes that were common in the drafts of your final papers. Every draft that I read contained at least one of these mistakes, so I recommend that you all look through this and apply what it says to your writing. These remarks are elaborated upon in the file {{< resource_link 343d96d1-35a7-2300-f69c-9338178d46bd "Comments on Final Paper Drafts (PDF)" >}}
+I've put together a list of mistakes that were common in the drafts of your final papers. Every draft that I read contained at least one of these mistakes, so I recommend that you all look through this and apply what it says to your writing. These remarks are elaborated upon in the file {{% resource_link 343d96d1-35a7-2300-f69c-9338178d46bd "Comments on Final Paper Drafts (PDF)" %}}
 
 {{< anchor "2" >}}{{< /anchor >}}Topic Selection
 ------------------------------------------------
@@ -76,8 +78,8 @@ You must select the topic for your paper by session 15. I'd prefer that no two o
 
 Three of the students in the class have provided their final papers for publication on OCW and they are presented here with their permission.
 
-{{< resource_link ddb67681-e7f7-5f31-931a-73d2fd1ecb41 "Introduction to Orbifolds (PDF)" >}}
+{{% resource_link ddb67681-e7f7-5f31-931a-73d2fd1ecb41 "Introduction to Orbifolds (PDF)" %}}
 
-{{< resource_link 630fecdd-09a7-90c3-19d5-75f60287dfbc "An Introduction to Simplicial Sets (PDF)" >}}
+{{% resource_link 630fecdd-09a7-90c3-19d5-75f60287dfbc "An Introduction to Simplicial Sets (PDF)" %}}
 
-{{< resource_link d647c89d-91c0-9829-722b-eda80a87705a "The Hurewicz Theorem (PDF)" >}}
+{{% resource_link d647c89d-91c0-9829-722b-eda80a87705a "The Hurewicz Theorem (PDF)" %}}

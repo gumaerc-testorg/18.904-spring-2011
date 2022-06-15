@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. Snowden describes ways in which he adapted the course
+  mid-stream in response to student feedback.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

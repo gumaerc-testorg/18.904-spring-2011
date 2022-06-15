@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Dr. Snowden explains the mathematical goals of this
+  undergraduate math seminar course and the implications of teaching mathematical
+  content under this course structure.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -21,7 +24,7 @@ Because of the [undergraduate math seminar](http://mathcomm.org/courses/course-s
 
 The mathematical goal of Seminar in Topology was to introduce students to algebraic topology. I wanted to show the students the landscape of a subject they'd likely see in a first-semester class in math graduate school; I thought it would be good to expose them to this material.
 
-We followed [Allen Hatcher's textbook on algebraic topology](http://www.math.cornell.edu/~hatcher/#ATI) fairly closely. We covered the fundamental group and covering spaces, then homology, and then cohomology and Poincaré duality. For the final 2 weeks of the course, students lectured on the topics they had explored in their {{< resource_link 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116 "final papers" >}}.
+We followed [Allen Hatcher's textbook on algebraic topology](http://www.math.cornell.edu/~hatcher/#ATI) fairly closely. We covered the fundamental group and covering spaces, then homology, and then cohomology and Poincaré duality. For the final 2 weeks of the course, students lectured on the topics they had explored in their {{% resource_link 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116 "final papers" %}}.
 
 I assumed the students were smart and knew the math they said they had learned. I didn't correct every little mistake they made, I gave them hard and interesting problems to work on, and I moved the class at a fast pace.
 
@@ -57,11 +60,11 @@ When that kind of thing happened, I would try to step in and say something, but 
 Using Problem Sets to Help Students
 -----------------------------------
 
-Although the focus of the class was on the {{< resource_link e803d8bc-7706-e2b1-ffda-554c4900cb98 "student lectures" >}} and the {{< resource_link 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116 "final paper" >}}, I thought it was important for students to do homework. A lot of the students didn't seem to treat the class like a normal class when they weren't presenting. For example, I don't think they took notes as faithfully as they might have in a more typical class.
+Although the focus of the class was on the {{% resource_link e803d8bc-7706-e2b1-ffda-554c4900cb98 "student lectures" %}} and the {{% resource_link 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116 "final paper" %}}, I thought it was important for students to do homework. A lot of the students didn't seem to treat the class like a normal class when they weren't presenting. For example, I don't think they took notes as faithfully as they might have in a more typical class.
 
-The {{< resource_link 34ad0dee-49a3-4c53-f0a6-6d017266bbd0 "problem sets" >}} provided another way for the students to actually learn the material. I gave three problem sets, each consisting of about 5 difficult problems. I gave the students two weeks to do each set. I wanted them to just actually do some of this math.
+The {{% resource_link 34ad0dee-49a3-4c53-f0a6-6d017266bbd0 "problem sets" %}} provided another way for the students to actually learn the material. I gave three problem sets, each consisting of about 5 difficult problems. I gave the students two weeks to do each set. I wanted them to just actually do some of this math.
 
 Exploring a Single Topic in Depth via the Final Paper Assignment
 ----------------------------------------------------------------
 
-In every undergraduate math seminar at MIT, students are required to write {{< resource_link 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116 "a final paper" >}}. In this class, students each picked a topic from a list of suggestions. This gave students the opportunity to explore a single topic in algebraic topology in depth. The writing process is described in {{< resource_link 3c03b5f9-3ec8-803f-da53-1066aded0138 "Helping Students Learn to Write Mathematics Papers" >}}.
+In every undergraduate math seminar at MIT, students are required to write {{% resource_link 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116 "a final paper" %}}. In this class, students each picked a topic from a list of suggestions. This gave students the opportunity to explore a single topic in algebraic topology in depth. The writing process is described in {{% resource_link 3c03b5f9-3ec8-803f-da53-1066aded0138 "Helping Students Learn to Write Mathematics Papers" %}}.
