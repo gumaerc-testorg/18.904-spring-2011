@@ -5,6 +5,7 @@ file: /courses/18-904-seminar-in-topology-spring-2011/11006f716c30435c4c024d3fa1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 2 Solutions
 uid: 11006f71-6c30-435c-4c02-4d3fa1c75458
 ---
 This file contains information regarding Problem Set 2 Solutions
-
