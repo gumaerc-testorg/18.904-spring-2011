@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Dr. Snowden describes some of the ways in which he customized
+  the course structure for the Spring 2011 offering of Seminar in Topology.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 18ac083f-71d7-7895-10a9-fb5ff0ff557f
 title: Customizing a Prescribed Course Structure
 uid: 020c887f-2918-e7ab-022e-5fded9505d05
@@ -13,7 +18,7 @@ Since the Seminar in Topology is an [undergraduate math seminar](http://mathcomm
 
 As the course instructor, I built upon these requirements and what prior Seminar in Topology instructors had done. I was given a basic set of guidelines. I looked at past course websites for Seminar in Topology that were still on the web. I also discussed ideas with Susan Ruff, the MIT math department's writing instructor, who has been involved in many of the undergraduate math seminars in recent years.
 
-For information about the course's structure, see the course's [Syllabus]({{< baseurl >}}/pages/syllabus). Some of the ways in which I chose to structure the class are described below.
+For information about the course's structure, see the course's {{% resource_link 04eed4c2-e03e-e499-2f74-03e77273d890 "Syllabus" %}}. Some of the ways in which I chose to structure the class are described below.
 
 Picking the Textbook and Topics to Cover
 ----------------------------------------

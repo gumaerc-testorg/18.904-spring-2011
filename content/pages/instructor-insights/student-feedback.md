@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Dr. Snowden describes ways in which he adapted the course
+  mid-stream in response to student feedback.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 18ac083f-71d7-7895-10a9-fb5ff0ff557f
 title: Adapting the Course in Response to Student Feedback
 uid: 505395b2-96e0-3d8f-bf32-956b77d837e7

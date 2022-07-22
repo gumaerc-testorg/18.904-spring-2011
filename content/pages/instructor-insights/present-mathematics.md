@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Dr. Snowden shares strategies he used for helping students
+  learn to present mathematics.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 18ac083f-71d7-7895-10a9-fb5ff0ff557f
 title: Helping Students Learn to Present Mathematics
 uid: f99ab93d-ec5b-e8c8-f3d4-2526fd00bd92
@@ -18,7 +23,7 @@ Many students entered this class without any experience presenting mathematics i
 Ample Practice in a Realistic Setting
 -------------------------------------
 
-I think the key to learning how to give a good math talk is practice. It's all about just doing it. Over the course of the semester, each student gave six 25-minute [lectures]({{< baseurl >}}/pages/lecture-summaries).
+I think the key to learning how to give a good math talk is practice. It's all about just doing it. Over the course of the semester, each student gave six 25-minute {{% resource_link e803d8bc-7706-e2b1-ffda-554c4900cb98 "lectures" %}}.
 
 To maintain a realistic classroom atmosphere, it was important that the whole class attend each class session. There were roughly 10 students in the class, so if 3 people didn't show up, then the lecturer would feel like he/she was talking to a small group instead of a class.
 

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides instructions for problem sets, the three problem
+  sets required for the course, and solutions.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 34ad0dee-49a3-4c53-f0a6-6d017266bbd0
 ---
@@ -39,10 +44,10 @@ SOLUTIONS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit18_904s11_pset1)
+{{% resource_link 714c3a77-74fb-f1cb-b7bd-a4fbc9c4e932 "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit18_904s11_soln1)
+{{% resource_link 3dd8c163-5701-86e3-9e6a-b1ae640038c9 "Problem Set 1 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,10 +56,10 @@ SOLUTIONS
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit18_904s11_pset2)
+{{% resource_link 33c72da7-6b26-921c-bb1c-bb13fb94dd23 "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 2 Solutions (partial) (PDF)]({{< baseurl >}}/resources/mit18_904s11_solns2)
+{{% resource_link 11006f71-6c30-435c-4c02-4d3fa1c75458 "Problem Set 2 Solutions (partial) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +68,7 @@ SOLUTIONS
 38
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit18_904s11_pset3)
+{{% resource_link 6514e49e-64c4-8fe3-2fc2-f40d044e37bb "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 (not available)
