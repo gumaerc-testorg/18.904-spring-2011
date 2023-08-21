@@ -34,8 +34,10 @@
   },
   "learning_resource_types": [
     "Problem Sets with Solutions",
-    "Projects with Examples"
+    "Projects with Examples",
+    "Instructor Insights",
+    "Online Textbook"
   ],
-  "site_uid": "59f7af67-226c-4867-8016-2f4b10296329",
+  "site_uid": "6863e9f9-9098-45fc-bd6f-90f1741bcb31",
   "title": "Course Metadata"
 }
