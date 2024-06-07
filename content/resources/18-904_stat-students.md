@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-904-seminar-in-topology-spring-2011/93070fdd45f58fb88b5d699e92d9b8a6_18-904_stat-students.png
+file_size: 2771
 file_type: image/png
 image_metadata:
   caption: ''
