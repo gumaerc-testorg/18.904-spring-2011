@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file of latex.tex
-file: /ol-ocw-studio-app/courses/18-904-seminar-in-topology-spring-2011/e8009715bf17ba32251facf8ce619c9c_latex.tex
+file: /courses/18-904-seminar-in-topology-spring-2011/e8009715bf17ba32251facf8ce619c9c_latex.tex
 file_size: 5614
 file_type: text/x-tex
 learning_resource_types: []
