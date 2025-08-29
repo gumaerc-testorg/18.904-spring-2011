@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding an introduction to simplicial
   sets.
-file: /courses/18-904-seminar-in-topology-spring-2011/630fecdd09a790c319d575f60287dfbc_MIT18_904S11_finlSmplicial.pdf
+file: /ol-ocw-studio-app/courses/18-904-seminar-in-topology-spring-2011/630fecdd09a790c319d575f60287dfbc_MIT18_904S11_finlSmplicial.pdf
 file_size: 185269
 file_type: application/pdf
 learning_resource_types: []

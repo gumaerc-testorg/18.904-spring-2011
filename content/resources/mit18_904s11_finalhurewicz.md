@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding the hurewicz theorem.
-file: /courses/18-904-seminar-in-topology-spring-2011/d647c89d91c09829722beda80a87705a_MIT18_904S11_finalHurewicz.pdf
+file: /ol-ocw-studio-app/courses/18-904-seminar-in-topology-spring-2011/d647c89d91c09829722beda80a87705a_MIT18_904S11_finalHurewicz.pdf
 file_size: 281940
 file_type: application/pdf
 learning_resource_types: []
