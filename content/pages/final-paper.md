@@ -18,7 +18,7 @@ uid: 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116
 {{< anchor "1" >}}{{< /anchor >}}Guidelines
 -------------------------------------------
 
-The final paper is an approximately 10 page exposition on a topic in algebraic topology not covered in our seminar. The paper must be written in [LaTeX](http://www.latex-project.org/) (or some other flavor of [TeX](http://en.wikipedia.org/wiki/TeX)).
+The final paper is an approximately 10 page exposition on a topic in algebraic topology not covered in our seminar. The paper must be written in {{% resource_link "b990d106-a86d-4681-ad5b-9268db2fcd8a" "LaTeX" %}} (or some other flavor of {{% resource_link "8a0eda2e-a160-4ec7-ac9a-abc59db7bf00" "TeX" %}}).
 
 Here are some {{% resource_link f375162f-a875-71fd-6b8a-9a281944cf8f "LaTeX guidelines (PDF)" %}}—and the {{% resource_link e8009715-bf17-ba32-251f-acf8ce619c9c "LaTeX guidelines .tex source" %}}—that gives some examples of how to do things like matrices and commutative diagrams, and also discusses some things that you should and should not do in latex (repeated in abridged form below).
 
