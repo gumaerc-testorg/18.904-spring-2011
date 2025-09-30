@@ -24,9 +24,9 @@ This course is a seminar in topology. The main mathematical goal is to learn abo
 
 ## Textbooks
 
-Hatcher, Allen. *Algebraic Topology*. Cambridge University Press, 2001. ISBN: 9780521795401. \[Preview with [Google Books](http://books.google.com/books?id=BjKs86kosqgC&printsec=frontcover)\]
+Hatcher, Allen. *Algebraic Topology*. Cambridge University Press, 2001. ISBN: 9780521795401. \[Preview with {{% resource_link "716695b1-6947-403b-a186-325a13a49d66" "Google Books" %}}\]
 
-This book is also available for free online at  [Allen Hatcher's webpage](https://pi.math.cornell.edu/~hatcher/#ATI).
+This book is also available for free online at  {{% resource_link "5d0d3db6-0b9d-4fa3-b29e-078ae3d47e27" "Allen Hatcher's webpage" %}}.
 
 Massey, William S. *A Basic Course in Algebraic Topology*. Springer-Verlag, 1991. ISBN: 9783540974307.
 

@@ -16,7 +16,7 @@ In each class session, two students will give lectures. Each lecture should be a
 
 Readings references are to the two required texts:
 
-Hatcher, Allen. _Algebraic Topology_. Cambridge University Press, 2001. ISBN: 9780521795401. \[Preview with [Google Books](http://books.google.com/books?id=BjKs86kosqgC&printsec=frontcover)\]
+Hatcher, Allen. _Algebraic Topology_. Cambridge University Press, 2001. ISBN: 9780521795401. \[Preview with {{% resource_link "716695b1-6947-403b-a186-325a13a49d66" "Google Books" %}}\]
 
 Massey, William S. _A Basic Course in Algebraic Topology_. Springer-Verlag, 1991. ISBN: 9783540974307.
 

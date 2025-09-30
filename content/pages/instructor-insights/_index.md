@@ -13,9 +13,9 @@ uid: 18ac083f-71d7-7895-10a9-fb5ff0ff557f
 
 This page focuses on the course _18.904_ _Seminar in Topology_ as it was taught by Dr. Andrew Snowden in Spring 2011.
 
-Seminar in Topology is an [undergraduate math seminar](http://mathcomm.org/courses/course-structure/). As with all such seminars, the majority of lectures for this class are given by the students as part of their coursework. Students also write a final expository paper. This particular seminar serves as an introduction to algebraic topology at an advanced undergraduate level.
+Seminar in Topology is an {{% resource_link "7ed39262-9927-4832-9dc5-736a2f71b6df" "undergraduate math seminar" %}}. As with all such seminars, the majority of lectures for this class are given by the students as part of their coursework. Students also write a final expository paper. This particular seminar serves as an introduction to algebraic topology at an advanced undergraduate level.
 
-Additional information and resources related to MIT's undergraduate math seminars and teaching mathematical communication are available on the [MathDL Mathematical Communication](http://mathcomm.org/) website.
+Additional information and resources related to MIT's undergraduate math seminars and teaching mathematical communication are available on the {{% resource_link "df7c1196-b682-4836-8007-d5b557d8a419" "MathDL Mathematical Communication" %}} website.
 
 ## Course Outcomes
 
@@ -46,8 +46,8 @@ In the following pages, Dr. Andrew Snowden discusses specific aspects of his exp
 
 ### Requirements Satisfied
 
-- CI-M ![](/images/educator/icon-question-cim.png) in [Mathematics](http://web.mit.edu/commreq/cim/course18.html)
-- 18.904 can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/), but is not required.
+- CI-M ![](/images/educator/icon-question-cim.png) in {{% resource_link "c78d3464-42dc-4755-a44f-62b1adec2635" "Mathematics" %}}
+- 18.904 can be applied toward a {{% resource_link "8e23e7bd-fc47-458f-a7a1-ac812173ca81" "Bachelor of Science in Mathematics" %}}, but is not required.
 
 ### Offered
 

@@ -28,7 +28,7 @@ I gave three problem sets, each consisting of about 5 difficult problems. I gave
 Material
 --------
 
-We followed [Allen Hatcher's textbook on algebraic topology](http://www.math.cornell.edu/~hatcher/AT/ATpage.html) fairly closely. We spent February and the beginning of March on the fundamental group and covering spaces, March through the beginning of April on homology and the rest of April on cohomology and Poincare duality. The two weeks in May I had the students lecture on their final papers. I think I was a bit too ambitious, and tried to cover too much. I think doing the fundamental group, covering spaces and homology would have worked well, but doing cohomology and duality was just a bit too much.
+We followed {{% resource_link "976cc5d4-86f5-4aa9-84a9-a6762fece8ff" "Allen Hatcher's textbook on algebraic topology" %}} fairly closely. We spent February and the beginning of March on the fundamental group and covering spaces, March through the beginning of April on homology and the rest of April on cohomology and Poincare duality. The two weeks in May I had the students lecture on their final papers. I think I was a bit too ambitious, and tried to cover too much. I think doing the fundamental group, covering spaces and homology would have worked well, but doing cohomology and duality was just a bit too much.
 
 Instructor Observations and Comments
 ------------------------------------
